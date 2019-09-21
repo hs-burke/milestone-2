@@ -1,0 +1,20 @@
+---
+title: "milestone 2"
+author: "Harrison Burke"
+date: "9/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+I really enjoyed this project from Nicholas Dow: https://nicholasdow.shinyapps.io/Report/
+
+I thought he did a really good job of capturing multiple stories from the report. The ability he gave the user to change certain calculating elements, like binwidth for sentiment analysis, made sure that the story he presented didn't leave anything out. I wish he'd chosen some better themes, just to help certain graphs stand out more.
+
+I enjoyed this project form Diego Martinez: https://diego-martinez21.shinyapps.io/Baseball_Aging_Curve/
+
+I thought he did a really good job of not overdoing the analysis. I don't understand baseball too well, and especially not the more nuanced statistics, but his graphs made everything easy to understand. The one thing I wish he could've done would have been to mix up the graph formats. They were effective, but I would've liked to seen some stuff phrased differently.
